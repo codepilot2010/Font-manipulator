@@ -4,14 +4,15 @@
     border: 4px solid blue;
     border-radius: 15px;
     color: red;
+    background-color: aquamarine;
 }
 .footer
 {
     position: fixed;
-    color: red;
+    color: orange;
     bottom: 0;
     width: 100%;
-    background-color: aquamarine;
+    background-color: royalblue;
     line-height: 3;
     text-align: center;
     font-size: 25px;
